@@ -23,6 +23,7 @@ public class Main {
                 case 1:
                     break;
                 case 2:
+                    Figuras_Geometricas.triangulo_rectangulo(5);
                     System.out.println("triangulo Rectangulo");
                     break;
                 case 3:

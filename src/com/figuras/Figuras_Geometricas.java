@@ -18,11 +18,21 @@ public class Figuras_Geometricas {
     }
     public static void cuadrado(int base, int altura){
         for(int i=0;i<base;i++){
-            System.out.println();
             for (int j=1;j<=altura;j++){
                 System.out.print("*  ");
             }
+            System.out.println();
         }
         System.out.println("\n");
+    }
+    public static void triangulo_rectangulo(int altura){
+
+        for (int i=0;i<altura;i++){
+            for (int j=0;j<=i;j++){
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+        System.out.println();
     }
 }

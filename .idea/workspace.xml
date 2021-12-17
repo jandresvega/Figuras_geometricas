@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="837febd0-1cb6-47bd-a99c-f20fbe7a821d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/figuras/Figuras_Geometricas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/figuras/Figuras_Geometricas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/figuras/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/figuras/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +93,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -117,7 +120,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639244300318</updated>
-      <workItem from="1639244303141" duration="1089000" />
+      <workItem from="1639244303141" duration="1416000" />
+      <workItem from="1639351900084" duration="1893000" />
+      <workItem from="1639768919776" duration="2823000" />
     </task>
     <servers />
   </component>
