@@ -4,9 +4,6 @@ import java.util.Scanner;
 
 public class Figuras_Geometricas {
 
-    static Scanner entrada=new Scanner(System.in);
-    int h=0;
-    int b=0;
     public static void ingresarDatos() {
         Scanner entrada=new Scanner(System.in);
         int h=0;
@@ -34,5 +31,17 @@ public class Figuras_Geometricas {
             System.out.println();
         }
         System.out.println();
+    }
+    public static void triangulo_isosceles(int altura){
+
+        for(int i=0;i<altura;i++){
+            for (int j=altura;j>i+1;j--){
+                System.out.print("  ");
+            }
+            for (int k=0;k<=i*2;k++){
+                System.out.print("* ");
+            }
+            System.out.println();
+        }
     }
 }
